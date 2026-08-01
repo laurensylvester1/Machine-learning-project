@@ -11,7 +11,7 @@ This project applies unsupervised machine learning to segment mall customers bas
 - Performed demographic analysis by calculating average age and gender distribution for each cluster.
 - Summarized business insights and recommendations for customer segmentation and targeted marketing strategies.
 
-#Technologies
+# Technologies
 - Python
 - Pandas
 - Scikit-learn
